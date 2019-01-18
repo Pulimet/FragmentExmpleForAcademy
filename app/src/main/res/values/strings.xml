@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FragmentLearning</string>
+    <string name="my_fragment">My Fragment</string>
+    <string name="text_my_fragment">New text for MyFragment TextView</string>
+</resources>
